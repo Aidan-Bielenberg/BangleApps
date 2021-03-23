@@ -15,4 +15,4 @@ This will continually take measurements over 30 second periods every 3 and half 
 
 Note that in both modes, if the watch seems unresponsive, it's processing data and if you continue to hold the reset button it will eventually restart.
 
-If your sample count is less than around 5 samples and/or the readings don’t look right, try repositioning the watch and try again - you can use the HR monitor app to confirm fitting.
+If your sample count is less than around 5 samples and/or the readings don\`t look right, try repositioning the watch and try again - you can use the HR monitor app to confirm fitting.
